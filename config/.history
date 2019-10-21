@@ -1,0 +1,13 @@
+cd
+ls
+dir
+composer require laravel/ui --dev
+php artisan ui:auth
+php artisan ui bootstrap
+npm install
+npm run dev
+php artisan make:migration add_extra_field-to_users_table --table=users
+php php artisan migarte
+php artisan make:model form -m
+php artisan make:controller formController
+php artisan migrate

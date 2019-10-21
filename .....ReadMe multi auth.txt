@@ -1,0 +1,16 @@
+->
+https://sushankpokharel.com.np/laravel-multiple-authentication-system/
+
+-> composer require laravel/ui --dev
+
+
+-> php artisan ui:auth  xxxx
+
+
+-> php artisan migrate  xxxx
+
+
+-> php artisan ui bootstrap
+
+
+-> npm install
